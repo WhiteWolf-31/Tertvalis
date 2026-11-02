@@ -1,0 +1,6 @@
+{
+  "name": "Tertvalis — Financial Forecasting & Scenario Intelligence",
+  "description": "Enterprise financial forecasting, multi-scenario modeling, budget variance analysis, and performance intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
